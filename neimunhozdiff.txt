@@ -1,0 +1,8 @@
+diff --git a/neimunhoz.txt b/neimunhoz.txt
+index 918c04e..1e8b1f1 100644
+--- a/neimunhoz.txt
++++ b/neimunhoz.txt
+@@ -1,2 +1,2 @@
+ mudou de novo
+-
++de novo
