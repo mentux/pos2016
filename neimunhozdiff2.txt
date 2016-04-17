@@ -1,0 +1,7 @@
+diff --git a/neimunhoznovoarquivo.txt b/neimunhoznovoarquivo.txt
+new file mode 100644
+index 0000000..ca75adf
+--- /dev/null
++++ b/neimunhoznovoarquivo.txt
+@@ -0,0 +1 @@
++novoarquivo
